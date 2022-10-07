@@ -2,7 +2,7 @@
     "watch": [
       "app.js"
     ],
-    "ext": "ts",
+    "ext": "js",
     "ignore": [
       "*.test.ts"
     ],
