@@ -1,0 +1,16 @@
+{
+  "name": "hs-fantasy",
+  "version": "0.0.1",
+  "description": "A way to play fantasy football with your favorite local high school players!",
+  "main": "/hs-fantasy/fantasy-api/app.js",
+  "scripts": {
+    "start":"nodemon app.js",
+    "devStart": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+},
+  "keywords": [
+    "football"
+  ],
+  "author": "Grant Baumstark (@GrantBaum)",
+  "license": "ISC"
+}
